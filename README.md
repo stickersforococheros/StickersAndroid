@@ -10,11 +10,15 @@ Puedes descargar versiones anteriores desde aquí: https://github.com/stickersfo
 
 ### ¿Como se instala? (Hostia tío que no lo he enchufao)
 
-Tranquilo shur, guarda la reportadora, esto aún está en construcción, ahora subiré las fotos de como se instala.
+Tranquilo shur, guarda la reportadora, esto aún está en construcción, en poder añadiré las fotos de como se instala.
 
 ### ¿Como sugiero un sticker? (Ilitri, pon el icono ![alt text](http://i40.tinypic.com/35i2loo.gif "roto2d2"))
 
 Tranquilo shur, guarda la reportadora, esto aún está en construcción, luego pasaré un enlace para sugerencias.
+
+### ¿Como se que stickers hay, o habrán? (Este tema sin fotos no vale nada)
+
+Para comprobar que hay y que no hay en la app puedes visitar el siguiente enlace: 
 
 ### He creado un sticker y me gustaría que estuviese en la app (Tengo un sticker y lo demuestro)
 
