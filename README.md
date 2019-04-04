@@ -2,7 +2,7 @@
 
 > Aquí se iran subiendo las versiones de la app de stickers para Android con las sugerencias de los shurmanos, y sin publi.
 
-## Como descargarla ###(Enlace o reporte)
+## ¿Como me la descargo? (Enlaces o reporte)
 
 Tranquilo shur, guarda la reportadora, esto aún está en construcción, dentro pondré el enlace para descargar la última versión.
 
