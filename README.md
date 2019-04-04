@@ -18,7 +18,7 @@ Tranquilo shur, guarda la reportadora, esto aún está en construcción, luego p
 
 ### ¿Como se que stickers hay, o habrán? (Este tema sin fotos no vale nada)
 
-Para comprobar que hay y que no hay en la app puedes visitar el siguiente enlace: 
+Para comprobar que hay y que no hay en la app puedes visitar el siguiente enlace: https://trello.com/b/wtyO8VDi/stickers-forococheros
 
 ### He creado un sticker y me gustaría que estuviese en la app (Tengo un sticker y lo demuestro)
 
