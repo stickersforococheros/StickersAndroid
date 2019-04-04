@@ -7,6 +7,7 @@
 Tranquilo shur, guarda la reportadora, esto aún está en construcción, dentro pondré el enlace para descargar la última versión.
 
 Puedes descargar la última versión desde aquí: wip
+
 Puedes descargar versiones anteriores desde aquí: https://github.com/stickersforococheros/StickersAndroid/releases
 
 ### ¿Como se instala? (Hostia tío que no lo he enchufao)
