@@ -10,7 +10,7 @@ Tranquilo shur, guarda la reportadora, esto aún está en construcción, dentro 
 
 Tranquilo shur, guarda la reportadora, esto aún está en construcción, ahora subiré las fotos de como se instala.
 
-## ¿Como sugiero un sticker? ![alt text](http://i40.tinypic.com/35i2loo.gif "roto2d2") (Lidl, pon el icono ![alt text](http://i40.tinypic.com/35i2loo.gif "roto2d2"))
+## ¿Como sugiero un sticker? (Lidl, pon el icono ![alt text](http://i40.tinypic.com/35i2loo.gif "roto2d2"))
 
 Tranquilo shur, guarda la reportadora, esto aún está en construcción, luego pasaré un enlace para sugerencias.
 
