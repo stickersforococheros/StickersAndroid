@@ -4,8 +4,6 @@
 
 ### ¿Como me la descargo? (Enlaces o reporte)
 
-Tranquilo shur, guarda la reportadora, esto aún está en construcción, dentro pondré el enlace para descargar la última versión.
-
 Puedes descargar la última versión desde aquí: https://github.com/stickersforococheros/StickersAndroid/releases/download/0.1/stickers-forococheros-v01.apk
 
 Puedes descargar versiones anteriores desde aquí: https://github.com/stickersforococheros/StickersAndroid/releases
@@ -20,4 +18,4 @@ Tranquilo shur, guarda la reportadora, esto aún está en construcción, luego p
 
 ### He creado un sticker y me gustaría que estuviese en la app (Tengo un sticker y lo demuestro)
 
-Tranquilo shur, guarda la reportadora, esto aún está en construcción, luego colgaré una plantilla por si quieres hacer un sticker para añadirlo al pack.
+Si quieres ahorrarme un poco de trabajo, pasalo por esta plantilla y subemelo a cualquier host de imagenes (imgur mismo) y mencioname en el post: https://www.forocoches.com/foro/showthread.php?t=7095096
