@@ -1,10 +1,10 @@
-# Stickers Forococheros para Android v0.1
+# Stickers Forococheros para Android v0.2
 
 > Aquí se iran subiendo las versiones de la app de stickers para Android con las sugerencias de los shurmanos, y sin publi.
 
 ### ¿Como me la descargo? (Enlaces o reporte)
 
-Puedes descargar la última versión desde aquí: https://github.com/stickersforococheros/StickersAndroid/releases/download/0.1/stickers-forococheros-v01.apk
+Puedes descargar la última versión desde aquí: https://github.com/stickersforococheros/StickersAndroid/releases/download/0.2/stickers-forococheros-v02.apk
 
 Puedes descargar versiones anteriores desde aquí: https://github.com/stickersforococheros/StickersAndroid/releases
 
